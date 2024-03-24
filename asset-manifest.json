@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/serv_factura/static/css/main.0b4e74b4.css",
-    "main.js": "/serv_factura/static/js/main.d734c233.js",
-    "static/js/787.2415ec94.chunk.js": "/serv_factura/static/js/787.2415ec94.chunk.js",
-    "index.html": "/serv_factura/index.html",
-    "main.0b4e74b4.css.map": "/serv_factura/static/css/main.0b4e74b4.css.map",
-    "main.d734c233.js.map": "/serv_factura/static/js/main.d734c233.js.map",
-    "787.2415ec94.chunk.js.map": "/serv_factura/static/js/787.2415ec94.chunk.js.map"
+    "main.css": "/MicroservicioFacturacion/static/css/main.0b4e74b4.css",
+    "main.js": "/MicroservicioFacturacion/static/js/main.df3b97f8.js",
+    "static/js/787.2415ec94.chunk.js": "/MicroservicioFacturacion/static/js/787.2415ec94.chunk.js",
+    "index.html": "/MicroservicioFacturacion/index.html",
+    "main.0b4e74b4.css.map": "/MicroservicioFacturacion/static/css/main.0b4e74b4.css.map",
+    "main.df3b97f8.js.map": "/MicroservicioFacturacion/static/js/main.df3b97f8.js.map",
+    "787.2415ec94.chunk.js.map": "/MicroservicioFacturacion/static/js/787.2415ec94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.d734c233.js"
+    "static/js/main.df3b97f8.js"
   ]
 }
